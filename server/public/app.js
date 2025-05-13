@@ -1,4 +1,4 @@
-const socket = io('https://textapp-x1ik.onrender.com0');
+const socket = io('https://textapp-x1ik.onrender.com');
 
 
 const msgInput = document.querySelector('#message');
